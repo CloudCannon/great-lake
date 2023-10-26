@@ -5,3 +5,5 @@ collections:
     path: 'collections/science-news'
   - output_key: 'profiles'
     path: 'collections/profiles'
+  - output_key: 'locations'
+    path: 'collections/locations'
