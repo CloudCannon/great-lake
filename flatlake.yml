@@ -3,3 +3,5 @@ collections:
     path: 'collections/engineering-news'
   - output_key: 'science-news'
     path: 'collections/science-news'
+  - output_key: 'profiles'
+    path: 'collections/profiles'
