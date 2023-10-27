@@ -1,7 +1,6 @@
 collections:
   - output_key: 'engineering-news'
     path: 'collections/engineering-news'
-    list_elements: []
   - output_key: 'science-news'
     path: 'collections/science-news'
   - output_key: 'profiles'
