@@ -1,9 +1,21 @@
 collections:
   - output_key: 'engineering-news'
     path: 'collections/engineering-news'
+    single_elements:
+      - 'flat_data'
+      - 'content'
   - output_key: 'science-news'
     path: 'collections/science-news'
+    single_elements:
+      - 'flat_data'
+      - 'content'
   - output_key: 'profiles'
     path: 'collections/profiles'
+    single_elements:
+      - 'flat_data'
+      - 'content'
   - output_key: 'locations'
     path: 'collections/locations'
+    single_elements:
+      - 'flat_data'
+      - 'content'
