@@ -9,6 +9,11 @@ collections:
     single_elements:
       - 'flat_data'
       - 'content'
+  - output_key: 'aeronautical-news'
+    path: 'collections/aeronautical-news'
+    single_elements:
+      - 'flat_data'
+      - 'content'
   - output_key: 'profiles'
     path: 'collections/profiles'
     single_elements:
